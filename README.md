@@ -64,15 +64,15 @@ Flappy Girl at Imam University is a 2D arcade game built in Unity. It takes the 
 
 <div align="center" style="margin: 20px 0;">
 
-![Start menu](assets/screens/start-menu.png)
+![Start menu](start-menu.png)
 
-![Select character](assets/screens/select-character.png)
+![Select character](select-character.png)
 
-![Gameplay](assets/screens/gameplay-start.png)
+![Gameplay](gameplay-start.png)
 
-![Silver cup](assets/screens/silver-cup.png)
+![Silver cup](silver-cup.png)
 
-![Gold cup](assets/screens/gold-cup.png)
+![Gold cup](gold-cup.png)
 
 </div>
 
@@ -131,3 +131,4 @@ This game was built for **CS 458: Game Application Development** at the College 
 [🔗 Repository](https://github.com/Alshaimaa00/escaping_imamu_game)
 
 ---
+
